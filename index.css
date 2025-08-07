@@ -1,0 +1,32 @@
+/* h1 {
+  color: #ffff00;
+}
+body {
+  background-color: rgb(252, 186, 3);
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCo3qIAfJOhuu-yzHROQYj5TDqHH37fgzzcg&s);
+  background-repeat: no-repeat;
+}
+button {
+  color: #d1be11;
+
+  background-color: tomato;
+}
+* {
+  color: aqua;
+}
+#fourth {
+  color: blue;
+}
+.paragraph {
+  color: green;
+} */
+
+#box {
+  background-color: blue;
+}
+.heading {
+  color: red;
+}
+button {
+  background-color: green;
+}
