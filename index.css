@@ -20,13 +20,53 @@ button {
 .paragraph {
   color: green;
 } */
-
+* {
+  font-family: "Times New Roman";
+}
 #box {
   background-color: blue;
 }
 .heading {
   color: red;
+  text-decoration: wavy;
 }
 button {
   background-color: green;
+}
+.align {
+  line-height: normal;
+  font-size: 18px;
+  text-align: left;
+  text-decoration: wavy;
+  text-transform: capitalize;
+  text-transform: none;
+}
+a {
+  text-decoration: none;
+  font-weight: bolder;
+  font-family: fantasy;
+}
+.heading2 {
+  font-weight: lighter;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 50px;
+}
+.heading3 {
+  font-weight: 300;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+#practice {
+  text-align: center;
+  text-transform: capitalize;
+}
+/* practice set 2,2 */
+/* * {
+  font-family: "Times New Roman", Times, serif;
+} */
+#outer {
+  font-size: 25px;
+}
+#inner {
+  font-size: 10px;
 }
